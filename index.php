@@ -1,1 +1,1 @@
-<?php shaadan_pagination();;?>			
+<?php shaadan_pagination();?>			
