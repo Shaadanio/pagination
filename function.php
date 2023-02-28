@@ -1,6 +1,6 @@
 <?php
 
-// samka pagination function
+// shaadan pagination function
 
 function shaadan_pagination() {
     global $paged, $wp_query;
