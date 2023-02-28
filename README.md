@@ -1,1 +1,1 @@
-# pagination
+WordPress pagination
