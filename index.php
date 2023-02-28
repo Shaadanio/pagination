@@ -1,0 +1,1 @@
+<?php shaadan_pagination();;?>			
